@@ -5,7 +5,7 @@
 }
 
 .header-panel {
-    background-color: #009587;
+    background-color: #FF8900;
     min-height: 144px;
     position: relative;
     z-index: 3;
@@ -23,6 +23,7 @@
     color: #FFF;
     font-size: 28px;
     padding-left: 35px;
+    font-weight: 700;
 }
 
 .header-panel h4 {
@@ -60,7 +61,7 @@
 .menu ul li {
     list-style: none;
     padding: 20px 0 20px 50px;
-    font-size: 15px;
+    font-size: 24px;
     font-weight: normal;
     cursor: pointer;
 }
